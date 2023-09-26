@@ -2,20 +2,10 @@
 
 This the project corresponding to my blog at https://rashadatjou.com/blog/posts/react-native-modules/en
 
-## Installation
+## Setup
 
 ```sh
-npm install react-native-awesome-library
-```
-
-## Usage
-
-```js
-import { AwesomeLibraryView } from 'react-native-awesome-library';
-
-// ...
-
-<AwesomeLibraryView color="tomato" />;
+yarn
 ```
 
 ## License
