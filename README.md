@@ -1,6 +1,6 @@
 # react-native-awesome-library
 
-This the project corresponding to my blog at https://rashadajtou.com/blog/posts/react-native-modules/en
+This the project corresponding to my blog at https://rashadatjou.com/blog/posts/react-native-modules/en
 
 ## Installation
 
